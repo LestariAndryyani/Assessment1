@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Healthy</string>
+    <string name="bmr_intro">Hitung Kalori yang dibutuhkan oleh tubuh untuk menjaga tubuhmu tetap sehat! <br>Note :</br> <br> Kategori untuk yang tidak olahraga (1,2), jarang olahraga (1,3)
+        , dan sering olahraga (1,4)</br></string>
+    <string name="berat_badan">Berat badan (kg)</string>
+    <string name="tinggi_badan">Tinggi badan (cm)</string>
+    <string name="usia">Usia</string>
+    <string name="jenis_kelamin">Jenis kelamin</string>
+    <string name="kategori">Kategori</string>
+    <string name="kategori_kegiatan">Kategori Kegiatan</string>
+    <string name="tidak">Tidak</string>
+    <string name="jarang">Jarang</string>
+    <string name="sering">Sering</string>
+    <string name="pria">Pria</string>
+    <string name="wanita">Wanita</string>
+    <string name="hitung">Hitung Kalori</string>
+    <string name="bmr_x">BMR: %1$.2f</string>
+    <string name="kategori_x">Kategori: %1$s</string>
+    <string name="berat_invalid">Berat tidak boleh kosong.</string>
+    <string name="tinggi_invalid">Tinggi tidak boleh kosong.</string>
+    <string name="usia_invalid">usia tidak boleh kosong</string>
+    <string name="kk_invalid">Kategori kegiatan tidak boleh kosong</string>
+    <string name="gender_invalid">Jenis Kelamin tidak boleh kosong.</string>
+    <string name="kategori_invalid">Kategori tidak boleh kosong</string>
+</resources>
